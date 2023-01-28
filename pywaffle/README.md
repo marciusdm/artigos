@@ -1,1 +1,1 @@
-# Código fonte do meu artigo "Criando gráficos de waffle no Python utilizando a biblioteca PyWaffle"
+* Código fonte do meu artigo "[Criando gráficos de waffle no Python utilizando a biblioteca PyWaffle](https://medium.com/@marciusdellano/criando-gráficos-de-waffle-no-python-utilizando-a-biblioteca-pywaffle-dd35f8ef6897)"
