@@ -4,4 +4,4 @@
 Em artigo publicado na plataforma Medium, mostro como personalizar gráficos no Matplotlib, tomando como referência o livro *Storytelling com dados* da autora norte-americana Cole Nussbumber Knafflic.  
 
 Link para artigo no Medium:  
-Como criar gráficos visualmente  mais impactantes no Matplotlib
+[Como criar gráficos visualmente  mais impactantes no Matplotlib](https://medium.com/@marciusdellano/como-criar-gráficos-visualmente-mais-impactantes-no-matplotlib-3f5d94b920b4)
