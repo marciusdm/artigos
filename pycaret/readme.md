@@ -2,4 +2,4 @@
 
 Lista de arquivos:
 * PyCaretDataRepositoriesNew.xlsx: Lista com conjuntos de dados inclusos no PyCaret
-* PyCaretClassificacao: Notebook utilizado no artigo
+* PyCaretClassificacao.ipynb: Notebook utilizado no artigo
